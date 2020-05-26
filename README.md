@@ -8,7 +8,7 @@ Full paper here: [https://arxiv.org/abs/2005.04330](https://arxiv.org/abs/2005.0
 
 Clone this repo
 ```console
-$ git clone https://github.com/mattjliu/Russell-Worstbrook.git
+$ git clone https://github.com/mattjliu/Identity-Effects-Cogsci-2020.git
 ```
 
 Install dependencies
