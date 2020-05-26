@@ -1,1 +1,17 @@
 # Identity-Effects-Cogsci-2020
+
+# Setup
+
+Clone this repo
+```console
+$ git clone https://github.com/mattjliu/Russell-Worstbrook.git
+```
+
+Install dependencies
+```console
+$ pip install -r requirements.txt
+```
+
+# Files
+
+Results and training history can be found in the `runs` folder. Experiments and results can be viewed in `experiments.ipynb`.
