@@ -1,5 +1,7 @@
 # Identity-Effects-Cogsci-2020
 
+Full paper here: [https://arxiv.org/abs/2005.04330](https://arxiv.org/abs/2005.04330)
+
 # Setup
 
 Clone this repo
